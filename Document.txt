@@ -1,0 +1,23 @@
+Document Project Dats Set
+
+DataSet={
+      Name:index,
+      URL: Localhost,
+      Document:For Project CodeDoxs index Builld Project,
+      Year:2020,
+      creation project:11/20/2020,
+      Languages:HTML ,Css ,JS ,Scss ,
+      Creator:DESKTOP-NBFLBTU,
+      Version:('default', 'Jan  8 2020 20:23:39'),
+      Compiler:MSC v.1916 64 bit (AMD64),
+      Platform:10,
+      System:Windows10,
+      Data System:uname_result(system='Windows', node='DESKTOP-NBFLBTU', release='10', version='10.0.18362', machine='AMD64', processor='Intel64 Family 6 Model 142 Stepping 9, GenuineIntel'),
+}
+CodeDoxs Version={
+      Version:1.0.0,
+      Framwork:CodeDoxs,
+      Programmer CodeDoxs:Aryia-Behroziaun,
+      CodeDoxs-Web:http://aryia-behroziaun.github.io/codedoxs/,
+      Aryia-Behroziuan-Web:aryia-behroziaun.github.io/web/,
+}
